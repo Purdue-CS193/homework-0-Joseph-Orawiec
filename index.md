@@ -1,3 +1,20 @@
+# Joseph-Orawiec's First CS193 Homework
+
+Some favorite things about CS193
+- The course material looks interesting and fun
+- Its a CS course
+- cant think of any others since only met once
+
+i've used markdown before
+it's pretty cool
+
+- [ ] #tags, [links](), **formatting** supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [?] this is also a complete item (works with every character)
+- [ ] this is an incomplete item
+- [ ] tasks can be clicked in Preview to be checked off
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
