@@ -11,9 +11,7 @@ it's pretty cool
 - [ ] #tags, [links](), **formatting** supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
-- [?] this is also a complete item (works with every character)
 - [ ] this is an incomplete item
-- [ ] tasks can be clicked in Preview to be checked off
 
 and Latex
 $$\int_{0}^{\infty}e^{-x}dx = \lim_{b \,\to \,-\infty}\,\int_0^b e^{-x}dx$$
