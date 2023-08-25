@@ -15,6 +15,12 @@ it's pretty cool
 - [ ] this is an incomplete item
 - [ ] tasks can be clicked in Preview to be checked off
 
+$$\int_{0}^{\infty}e^{-x}dx = \lim_{b \,\to \,-\infty}\,\int_0^b e^{-x}dx$$
+$$\lim_{b \,\to \,-\infty}\,-e^{-x}\bigg|_0^b$$
+$$\lim_{b \,\to \,-\infty}(-e^{-b}--e^0)$$
+$$\lim_{b \,\to \,-\infty}(-e^{-b}+1)$$
+$$1$$
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
