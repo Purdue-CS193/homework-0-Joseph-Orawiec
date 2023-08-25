@@ -15,8 +15,8 @@ it's pretty cool
 - [ ] this is an incomplete item
 - [ ] tasks can be clicked in Preview to be checked off
 
+and Latex
 $$\int_{0}^{\infty}e^{-x}dx = \lim_{b \,\to \,-\infty}\,\int_0^b e^{-x}dx$$
-$$\lim_{b \,\to \,-\infty}\,-e^{-x}\bigg|_0^b$$
 $$\lim_{b \,\to \,-\infty}(-e^{-b}--e^0)$$
 $$\lim_{b \,\to \,-\infty}(-e^{-b}+1)$$
 $$1$$
